@@ -8,7 +8,7 @@ export const blogList = [
       "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.",
     authorName: "Foluke Abolurin",
     authorAvatar: "https://api.time.com/wp-content/uploads/2019/01/regina-hall-quick-talk-web-2.jpg",
-    createdAt: "June 03, 2021",
+    createdAt: "June 03, 2022",
     cover: "/assets/images/image1.jpg",
   },
   {
@@ -20,7 +20,7 @@ export const blogList = [
       "With boats instead of cars and a wealth of Renaissance and Gothic architecture, this city will transport newlyweds to the past. It's the perfect place to wander in, as the main tourist area is car-free, says Ruchi Harnal of Harnal Travel. Honeymooners can walk hand in hand without having to worry about traffic, discovering streets with small shops and little piazzas tucked into alleys. Pros of a Venice Honeymoon. Thanks to its waterways, gondolas, bridges and colorful buildings, Venice is one of the world's most beautiful cities—the ultimate backdrop for a honeymoon. It's also an ideal destination as part of a larger trip that includes Rome, Florence and other cities in Italy and Europe. To arrive, just fly into Venice Marco Polo Airport, which is only four miles from the city, says Ashley Gallo of Royal Travel and Tours. Couples can catch nonstop flights from New York, New Jersey, Philadelphia and Atlanta from May to October, Harnal says. Alternatively, newlyweds can fly into Milan and take the train to Venice's Santa Lucia station in the Cannaregio district. Cons of a Venice Honeymoon. During the summer months (peak season), Venice can be crowded and pricey, Gallo says. It can also be very hot.",
     authorName: "Francisa Hannah",
     authorAvatar: "https://imageio.forbes.com/specials-images/imageserve/5f6a779460548326baf6d730/0x0.jpg?format=jpg&width=1200",
-    createdAt: "June 03, 2021",
+    createdAt: "October 10, 2022",
     cover: "https://www.arabiaweddings.com/sites/default/files/articles/2019/08/venice_italy_grand_canal.jpg",
   },
   {
@@ -32,7 +32,7 @@ export const blogList = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
     authorName: "Eunice Obebe",
     authorAvatar: "https://media-exp1.licdn.com/dms/image/C4D03AQHKgCGsKYzKXg/profile-displayphoto-shrink_800_800/0/1656011115522?e=2147483647&v=beta&t=kV-8QLcdfJf8oH8dTKhap1KXymUnIxIcsIx9J60WWYA",
-    createdAt: "June 03, 2021",
+    createdAt: "Febuary 13, 2022",
     cover: "https://www.merchantmaverick.com/wp-content/uploads/2016/12/online-shopping.jpg",
   },
   {
@@ -44,7 +44,7 @@ export const blogList = [
       "Zuma Rock was once an idol and a fortress in times of war. The magnificent monolith stands at about 725 feet above sea level. It is visible from the Abuja-Kaduna expressway.",
     authorName: "Christian James",
     authorAvatar: "https://media.istockphoto.com/id/1371301907/photo/friendly-young-man-wearing-denim-shirt.jpg?b=1&s=170667a&w=0&k=20&c=uvclBOQrU3gd4_FMwzmTNK1PY4ydO_SlEgELJYj5mVI=",
-    createdAt: "June 03, 2021",
+    createdAt: "August 24, 2022",
     cover: "https://cdn.theculturetrip.com/wp-content/uploads/2018/10/f87c3c98-557a-4772-97d7-b240c3b2dbff-650x335.jpg",
   },
   {
@@ -56,7 +56,7 @@ export const blogList = [
       "This recipe for Ghanaian jollof rice brings you a brightly colored red/orange rice dish, with wonderful spice and rich and saucy beef (or other meat). Jollof rice is a much-loved festive dish that people often serve at weddings, parties, and other large gatherings. The rice cooks in a rich and spicy tomato-based sauce, giving it a bright color. As much as we have prominent “jollof wars” between Nigerians and Ghanaians, all centered around who makes the best jollof rice, it actually originates somewhere else.",
     authorName: "Adaku Benjamin",
     authorAvatar: "https://www.plasticsurgeryofshorthills.com/wp-content/uploads/sites/187/2022/03/black-transpalnts.jpeg",
-    createdAt: "June 03, 2021",
+    createdAt: "September 04, 2022",
     cover: "https://agameals.com/wp-content/uploads/2022/04/maxresdefault-25-1140x694.jpg",
   },
   {
@@ -67,7 +67,7 @@ export const blogList = [
     description:"Backpacking, car camping, glamping, cabins, RVs … the options can seem overwhelming. This guide breaks down your choices and gives you tips on camping and backpacking for beginners, so you can find the one that’ll be the most fun for you. The main difference between camping and backpacking is in how you get to the spot where you’re spending the night(s). To camp, you can drive right up to your location (more on that later). But when you backpack, you carry all the gear you need to set up your campsite on your back.",
     authorName: "Foluke Abolurin",
     authorAvatar: "https://api.time.com/wp-content/uploads/2019/01/regina-hall-quick-talk-web-2.jpg",
-    createdAt: "June 03, 2021",
+    createdAt: "March 07, 2022",
     cover:
       "https://www.nps.gov/common/uploads/grid_builder/isro/crop1_1/27198C28-9F7E-1D73-4A2D6A2902F8236B.jpeg?width=640&quality=90&mode=crop",
   },
@@ -80,7 +80,7 @@ export const blogList = [
       "Many factors can affect the relationship between perception and art, including a viewer’s psychological makeup, genetic predisposition, education and religious background. In the past many cultures developed systematized ways of creating art, which has made it easier for viewers to comprehend works of art. The development of the postmodern art movement and mass media have complicated the connection between perception and art. The psychological makeup of a person may influence how he or she views art. A person with a generally sunny, upbeat personality probably will not be attracted to some of the gloomy, tortured paintings of monsters eating people that Francisco de Goya painted. He or she might be more attuned to some of Goya‘s portrait paintings.",
     authorName: "Francisa Hannah",
     authorAvatar: "https://imageio.forbes.com/specials-images/imageserve/5f6a779460548326baf6d730/0x0.jpg?format=jpg&width=1200",
-    createdAt: "June 03, 2021",
+    createdAt: "June 24, 2022",
     cover: "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/N/O/199745_1656768137.jpg",
   },
 ];
